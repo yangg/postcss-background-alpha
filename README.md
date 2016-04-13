@@ -1,4 +1,4 @@
-# PostCSS background-alpha
+# PostCSS background-alpha [![Build Status](https://travis-ci.org/iamvdo/postcss-opacity.svg)](https://travis-ci.org/yangg/postcss-background-alpha)
 
 [PostCSS] PostCSS plugin to add gradient filter for IE8 to support rgba background.
 
