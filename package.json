@@ -1,6 +1,6 @@
 {
   "name": "postcss-background-rgba",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PostCSS plugin to add gradient filter for IE8 to support rgba background",
   "keywords": [
     "postcss",
@@ -16,7 +16,7 @@
     "url": "https://github.com/yangg/postcss-background-rgba.git"
   },
   "dependencies": {
-    "postcss": "^5.0.4"
+    "postcss": "^4.1.16"
   },
   "devDependencies": {
     "chai": "^3.2.0",
