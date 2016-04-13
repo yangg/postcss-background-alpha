@@ -1,0 +1,11 @@
+.background {
+  background: rgba(0,0,0,0.5);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#80000000',EndColorStr = '#80000000')";
+}
+.background {
+  background: rgba(0,0,0,0.6) url(http://url) no-repeat center;
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#99000000',EndColorStr = '#99000000')";
+}
+.background {
+  background: rgb(240, 240, 240);
+}

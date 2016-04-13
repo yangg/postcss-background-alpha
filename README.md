@@ -1,0 +1,28 @@
+# PostCSS background-rgba [![Build Status](https://travis-ci.org/iamvdo/postcss-opacity.svg)](https://travis-ci.org/iamvdo/postcss-opacity)
+
+[PostCSS] PostCSS plugin to add gradient filter for IE8 to support rgba background.
+
+[PostCSS]: https://github.com/postcss/postcss
+
+```css
+/* Input example */
+.foo {
+  background-color: rgba(0,0,0,0.5);
+}
+```
+
+```css
+/* Output example */
+.foo {
+  background-color: rgba(0,0,0,0.5);
+  -ms-filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='80000000',EndColorStr = '80000000');
+}
+```
+
+## Usage
+
+```js
+postcss([ require('postcss-background-rgba') ])
+```
+
+See [PostCSS] docs for examples for your environment.

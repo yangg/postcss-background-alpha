@@ -1,0 +1,32 @@
+{
+  "name": "postcss-background-rgba",
+  "version": "1.0.0",
+  "description": "PostCSS plugin to add gradient filter for IE8 to support rgba background",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "background",
+    "rgba"
+  ],
+  "author": "Brook Yang <uedsky@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yangg/postcss-background-rgba.git"
+  },
+  "dependencies": {
+    "postcss": "^5.0.4"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-mocha": "^2.1.3",
+    "jshint-stylish": "^2.0.1",
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "gulp"
+  }
+}

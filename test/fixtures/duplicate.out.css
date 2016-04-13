@@ -1,0 +1,4 @@
+.background {
+  background: rgba(0,0,0,0.5);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#80000000',EndColorStr = '#80000000')";
+}

@@ -1,0 +1,9 @@
+.background {
+  background: rgba(0,0,0,0.5);
+}
+.background {
+  background: rgba(0,0,0,0.6) url(http://url) no-repeat center;
+}
+.background {
+  background: rgb(240, 240, 240);
+}
