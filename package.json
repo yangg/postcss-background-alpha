@@ -1,6 +1,6 @@
 {
   "name": "postcss-background-alpha",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "PostCSS plugin to add gradient filter for IE8 to support rgba background",
   "keywords": [
     "postcss",

@@ -22,7 +22,7 @@
 ## Usage
 
 ```js
-postcss([ require('postcss-background-rgba') ])
+postcss([ require('postcss-background-alpha') ])
 ```
 
 See [PostCSS] docs for examples for your environment.
